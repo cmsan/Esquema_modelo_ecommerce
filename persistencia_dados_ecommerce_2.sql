@@ -14,7 +14,7 @@ insert into pessoa_fisica values(1,'José','Silva','dos Santos',99988774412,'196
 							
 select * from pessoa_juridica;
 insert into pessoa_juridica values(1,'Solicitação Empresas',99088744310001,'1988-02-19'),
-								  (2,'Intermaritma LTDA',88897776650001,'1970-12-23'),
+								  (2,'Int LTDA',88897776650001,'1970-12-23'),
                                   (3,'Ogm',22334455660001,'1994-12-30'),
                                   (4, 'Paranapanema',33445566770001,'1987-10-12');
 alter table clientes modify telefone bigint;                                 
